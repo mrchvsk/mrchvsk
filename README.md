@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A motivated full-stack developer from Bulgaria</h3>
-
-- 👯 I’m looking to collaborate on [crypto-pos](https://www.cryptopos.online/)
+<h3 align="center">A full-stack developer from Bulgaria</h3>
 
 - 📫 How to reach me **mirchevski24@gmail.com**
 
